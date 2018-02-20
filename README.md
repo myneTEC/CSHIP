@@ -1,3 +1,3 @@
-candy Shoppers game chain
+Candy Shoppers game chain
 
 facebook:  https://www.facebook.com/candyshoppers
